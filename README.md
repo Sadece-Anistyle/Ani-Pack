@@ -173,7 +173,7 @@ Bu proje [MIT Lisansı](LICENSE) altında lisanslanmıştır.
 
 ani tarafından geliştirilmiştir.
 
-- Discord: @aniinc
+- Discord: @anistyle.html
 - GitHub: [github.com/anidesign](https://github.com/Sadece-Anistyle)
 - Website: [ani.com](https://ani.com)
 
