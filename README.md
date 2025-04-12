@@ -9,7 +9,7 @@ Discord botunuz için dinamik ve esnek aktivite sistemi. Belirli aralıklarla ot
 ## 📦 Kurulum
 
 ```bash
-npm install anipack
+npm install anipack (anipack olmassa npm i ani)
 ```
 
 ## 🚀 Özellikler
