@@ -1,4 +1,4 @@
-# aniPack
+# @here @everyone bu paket adım anistyle iken yapilmistir. Suan adimiz klaze
 
 Discord botunuz için dinamik ve esnek aktivite sistemi. Belirli aralıklarla otomatik olarak değişen bot aktiviteleri oluşturun ve webhook entegrasyonuyla aktivite değişimlerini takip edin.
 
